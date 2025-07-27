@@ -27,15 +27,19 @@ Custom curated Indian legal datasets used for fine-tuning:
 
 ---
 
-## 🛠 Technologies Used
+🚀 Technologies Used
 
-- 🔗 [Unsloth](https://github.com/unslothai/unsloth)
-- 🦙 DeepSeek LLaMA 8B (Distilled)
-- ⚡ LoRA (PEFT) for parameter-efficient fine-tuning
-- 🤗 Hugging Face Transformers
-- 🧠 Sentence-BERT (for embeddings)
-- 🔍 FAISS (for vector search)
-- 🧪 SFTTrainer with 8-bit AdamW optimizer
+    Model & Training:
+    PyTorch, Hugging Face Transformers, LoRA (PEFT), Unsloth
+
+    RAG & Retrieval:
+    FAISS, Sentence-BERT
+
+    Optimization:
+    SFTTrainer, AdamW 8-bit, Gradient Checkpointing
+
+    Experiment Tracking:
+    Weights & Biases (W&B)
 
 ---
 
