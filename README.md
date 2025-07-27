@@ -12,7 +12,7 @@ A powerful, low-resource legal assistant trained on Indian law (IPC, CrPC, Const
 - ⚡ Fast and memory-efficient training using 8-bit AdamW optimizer, PEFT, and Unsloth.
 - ✅ 40% reduction in hallucination and improved legal factual consistency.
 - 🧪 Evaluation-ready inference script with fast response generation.
--
+
 
 ---
 
