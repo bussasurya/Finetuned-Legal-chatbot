@@ -1,7 +1,7 @@
 
 ---
 
-# ⚖️🇮🇳 Fine-Tuned Legal Chatbot
+#  Fine-Tuned Legal Chatbot
 
 ## **Fine-Tuning LLaMA 8B for Indian Legal Q\&A**
 
