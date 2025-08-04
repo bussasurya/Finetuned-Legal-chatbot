@@ -13,7 +13,7 @@ This project leverages **Retrieval-Augmented Generation (RAG)** with **FAISS** a
 ## 🚀 Features
 
 * 🧠 Fine-tuned **DeepSeek LLaMA-8B** model on Indian legal data using **Unsloth** and **LoRA**
-* 🔍 Integrated **RAG pipeline** using **FAISS** and **Sentence-BERT**
+* 🔍 Integrated **RAG ** using **FAISS** and **Sentence-BERT**
 * ⚡ Fast and memory-efficient training via **8-bit AdamW optimizer**, **PEFT**, and **Unsloth**
 * ✅ **40% reduction in hallucinations** and improved legal factual consistency
 * 🧪 Ready-to-use **inference script** for accurate and fast responses
